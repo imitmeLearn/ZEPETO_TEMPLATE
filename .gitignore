@@ -10,6 +10,15 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+
+ZEPETO_TEMPLATE/[Ll]ibrary/
+ZEPETO_TEMPLATE/[Tt]emp/
+ZEPETO_TEMPLATE/[Oo]bj/
+ZEPETO_TEMPLATE/[Bb]uild/
+ZEPETO_TEMPLATE/[Bb]uilds/
+ZEPETO_TEMPLATE/[Ll]ogs/
+ZEPETO_TEMPLATE/[Uu]ser[Ss]ettings/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
