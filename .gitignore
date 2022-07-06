@@ -19,6 +19,15 @@ ZEPETO_TEMPLATE/[Bb]uilds/
 ZEPETO_TEMPLATE/[Ll]ogs/
 ZEPETO_TEMPLATE/[Uu]ser[Ss]ettings/
 
+ZEPETO_TUTORIAL/[Ll]ibrary/
+ZEPETO_TUTORIAL/[Tt]emp/
+ZEPETO_TUTORIAL/[Oo]bj/
+ZEPETO_TUTORIAL/[Bb]uild/
+ZEPETO_TUTORIAL/[Bb]uilds/
+ZEPETO_TUTORIAL/[Ll]ogs/
+ZEPETO_TUTORIAL/[Uu]ser[Ss]ettings/
+
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
